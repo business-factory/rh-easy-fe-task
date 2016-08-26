@@ -17,4 +17,4 @@ If you struggle, you can contact us anytime and we will provide more information
 Good luck and have fun!
 
 
-Contact: jana.tumova@b.cz
+Contact: Dana.Paderova@b.cz
