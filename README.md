@@ -11,6 +11,7 @@ Technical requirements:
 - Utilize React and Twitter Bootstrap for UI (eg. http://react-bootstrap.github.io/components.html)
 - You may also use Redux and Immutablejs for state management and data model
 - Development in GitHub repository (share it with us and commit to it as you progress)
+- As a scaffolding tool we recommend to use [Create React App](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html).
 
 If you struggle, you can contact us anytime and we will provide more information. Also if you stuck at one point, just try to implement the rest of functionality.
 
